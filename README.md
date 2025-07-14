@@ -1,20 +1,17 @@
 <<<<<<< HEAD
-# smarthome_ui
+# Modern Smart Home UI
 
-A new Flutter project.
+Modern Smart Home UI is a sleek and intuitive Flutter application designed to control and monitor smart home devices effortlessly. The app features a clean, responsive design with smooth animations and easy navigation, providing users with a seamless experience to manage lights, temperature, security systems, and more — all from their mobile device.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User-friendly interface:** Simple and modern design with clear icons and controls  
+- **Device management:** Turn on/off lights, adjust thermostat settings, and control smart plugs  
+- **Real-time updates:** Instant feedback from connected devices  
+- **Customizable themes:** Light and dark mode support for comfortable use anytime  
+- **Secure access:** User authentication and encrypted communication with devices
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# ModernSmartHomeUI
+![App Screenshot](assets/screenshot.jpg)
 >>>>>>> 3abbce96ab7474b3e936085d421564691cc517ed
