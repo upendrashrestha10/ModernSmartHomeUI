@@ -1,1 +1,18 @@
-*.dart linguist-language=Dart
+# Ignore platform-specific native code
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+
+# Ignore build artifacts
+build/** linguist-generated
+
+# Ignore tooling scripts
+*.gradle linguist-vendored
+*.sh linguist-vendored
+*.bat linguist-vendored
+*.cmake linguist-vendored
+
+# Explicitly mark Dart files as primary
+lib/** linguist-language=Dart
